@@ -13,5 +13,4 @@ Name-list:
   - http://www.cbgfamilienamen.nl/nfb/ (per)
   - http://www.meertens.knaw.nl/nvb/   (per)
   - http://www.geonames.org/           (loc)
-  
-http://www.narralyzer.com/
+
