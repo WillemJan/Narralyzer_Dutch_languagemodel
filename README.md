@@ -4,7 +4,7 @@ Language model for Narralyzer / Stanford-core (Dutch)
 
 Based on:
 --------
-  - http://www.cnts.ua.ac.be/conll2002/ner/
+  - https://github.com/teropa/nlp/tree/master/resources/corpora/conll2002
   - https://github.com/EuropeanaNewspapers/ner-corpora
 
 
